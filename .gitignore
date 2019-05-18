@@ -1,0 +1,10 @@
+bin
+obj
+*.doc
+*.docx
+*.pptx*
+*.cbp
+*.layout
+*.depend
+*.zip
+ex
